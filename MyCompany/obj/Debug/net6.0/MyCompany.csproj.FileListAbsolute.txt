@@ -1,0 +1,14 @@
+C:\Users\kmantalaba.TRITONTEKINC\source\repos\MyCompany\MyCompany\obj\Debug\net6.0\MyCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmantalaba.TRITONTEKINC\source\repos\MyCompany\MyCompany\obj\Debug\net6.0\MyCompany.AssemblyInfoInputs.cache
+C:\Users\kmantalaba.TRITONTEKINC\source\repos\MyCompany\MyCompany\obj\Debug\net6.0\MyCompany.AssemblyInfo.cs
+C:\Users\kmantalaba.TRITONTEKINC\source\repos\MyCompany\MyCompany\obj\Debug\net6.0\MyCompany.csproj.CoreCompileInputs.cache
+C:\Users\kmantalaba.TRITONTEKINC\source\repos\MyCompany\MyCompany\bin\Debug\net6.0\MyCompany.exe
+C:\Users\kmantalaba.TRITONTEKINC\source\repos\MyCompany\MyCompany\bin\Debug\net6.0\MyCompany.deps.json
+C:\Users\kmantalaba.TRITONTEKINC\source\repos\MyCompany\MyCompany\bin\Debug\net6.0\MyCompany.runtimeconfig.json
+C:\Users\kmantalaba.TRITONTEKINC\source\repos\MyCompany\MyCompany\bin\Debug\net6.0\MyCompany.dll
+C:\Users\kmantalaba.TRITONTEKINC\source\repos\MyCompany\MyCompany\bin\Debug\net6.0\MyCompany.pdb
+C:\Users\kmantalaba.TRITONTEKINC\source\repos\MyCompany\MyCompany\obj\Debug\net6.0\MyCompany.dll
+C:\Users\kmantalaba.TRITONTEKINC\source\repos\MyCompany\MyCompany\obj\Debug\net6.0\refint\MyCompany.dll
+C:\Users\kmantalaba.TRITONTEKINC\source\repos\MyCompany\MyCompany\obj\Debug\net6.0\MyCompany.pdb
+C:\Users\kmantalaba.TRITONTEKINC\source\repos\MyCompany\MyCompany\obj\Debug\net6.0\MyCompany.genruntimeconfig.cache
+C:\Users\kmantalaba.TRITONTEKINC\source\repos\MyCompany\MyCompany\obj\Debug\net6.0\ref\MyCompany.dll
